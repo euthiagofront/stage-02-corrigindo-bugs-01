@@ -11,3 +11,7 @@ Nesse desafio foi dado um código que estava desalinhado como mostra a imagem ab
 O objetivo foi organizar e deixar o layout igual ao feito em aula.
 
 ![Sem título1](https://user-images.githubusercontent.com/65739291/176095803-89d8816a-3880-4412-8c6e-8307f266262b.png)
+
+Link do projeto completo: [https://moveiscustomizados.netlify.app](url)
+
+Esta é uma aplicação que foi desenvolvida com 💜 por Thiago Lucas. ... Projeto feito através da @Rocketseat.
